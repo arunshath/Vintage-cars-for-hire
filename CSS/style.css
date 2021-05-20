@@ -1,0 +1,60 @@
+body {
+    height: 500px;
+    justify-content: center
+}
+form {
+    background-color: rgb(255, 235, 235);
+    
+}
+h1 {
+    text-align: center;
+    position: relative;
+    top: 200px;
+    max-width: 1500px;
+    margin: auto;
+ 
+}
+footer {
+    text-align: center;
+    position: relative;
+    top: 50px; 
+}
+#position {
+    position: relative;
+    top: 200px;  
+    max-width: 1500px;
+    margin: auto;
+      
+      
+
+}
+#position2 {
+    position: relative;
+    top: 250px;  
+    max-width: 1500px;
+    margin: auto;
+}
+.mapouter {
+    position: relative;
+    text-align: right;
+    height: 500px;
+    width: 567px;
+    top: 100px; 
+    margin: 200px;
+
+}
+h6 {
+    position: relative;
+    top: 250px;
+    max-width: 1500px;
+    margin: auto;
+    
+}
+#navbar {
+    position: relative;
+    bottom: 50px;
+    
+}
+img {
+    border-radius: 5%;
+}
